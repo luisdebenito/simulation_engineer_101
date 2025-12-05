@@ -3,3 +3,7 @@ venv
 
 instance/*
 *.sqlite
+
+
+__pycache__
+*.pyc
